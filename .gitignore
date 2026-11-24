@@ -1,0 +1,6 @@
+__pycache__/
+checkpoints/
+*.pt
+*.txt
+!requirements.txt
+tokenizer_*.json
